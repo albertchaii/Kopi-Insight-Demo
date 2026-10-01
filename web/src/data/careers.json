@@ -1,0 +1,5 @@
+[
+  {"id": "barista", "title": "Barista", "type": "Full-time", "desc": "Suka kopi, ramah ke tamu, siap shift malam.", "branches": ["soreang", "banjaran"]},
+  {"id": "kitchen", "title": "Kitchen Crew", "type": "Full-time", "desc": "Berpengalaman di dapur kafe atau resto minimal 6 bulan."},
+  {"id": "waiter", "title": "Waiter / Waitress", "type": "Part-time", "desc": "Gesit, komunikatif, dan bisa kerja di akhir pekan."}
+]

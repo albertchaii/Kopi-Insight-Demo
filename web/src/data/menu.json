@@ -1,0 +1,22 @@
+[
+  {"id": "es-kopi-insight", "name": "Es Kopi Insight", "category": "kopi", "price": 22000, "image": "/images/menu/es-kopi-insight.webp", "tags": ["best-seller"], "desc": "Espresso, susu segar, gula aren"},
+  {"id": "kopi-aren", "name": "Kopi Susu Aren", "category": "kopi", "price": 23000, "image": "/images/menu/kopi-aren.webp", "tags": ["best-seller"], "desc": "Kopi susu dengan aren cair"},
+  {"id": "cappuccino", "name": "Cappuccino", "category": "kopi", "price": 25000, "image": "/images/menu/cappuccino.webp", "desc": "Espresso, susu, foam tebal"},
+  {"id": "caffe-latte", "name": "Caffè Latte", "category": "kopi", "price": 25000, "image": "/images/menu/caffe-latte.webp", "desc": "Panas atau dingin"},
+  {"id": "americano", "name": "Americano", "category": "kopi", "price": 20000, "image": "/images/menu/americano.webp", "desc": "Espresso dan air, tanpa gula"},
+  {"id": "v60", "name": "V60 Manual Brew", "category": "kopi", "price": 28000, "image": "/images/menu/v60.webp", "tags": ["baru"], "desc": "Biji single origin Jawa Barat", "branches": ["soreang", "bandung"]},
+  {"id": "matcha", "name": "Matcha Latte", "category": "non-kopi", "price": 26000, "image": "/images/menu/matcha.webp", "tags": ["best-seller"], "desc": "Matcha Jepang dan susu"},
+  {"id": "choco-oreo", "name": "Choco Oreo Frappe", "category": "non-kopi", "price": 28000, "image": "/images/menu/choco-oreo.webp", "tags": ["baru"], "desc": "Cokelat, oreo, whipped cream"},
+  {"id": "lychee-tea", "name": "Lychee Tea", "category": "non-kopi", "price": 22000, "image": "/images/menu/lychee-tea.webp", "desc": "Teh dingin dengan buah leci"},
+  {"id": "orange-squash", "name": "Orange Squash", "category": "non-kopi", "price": 22000, "image": "/images/menu/orange-squash.webp", "desc": "Jeruk segar dan soda"},
+  {"id": "mango-smoothie", "name": "Mango Smoothie", "category": "non-kopi", "price": 25000, "image": "/images/menu/mango-smoothie.webp", "soldOut": true, "desc": "Mangga harum manis, yoghurt"},
+  {"id": "nasi-goreng", "name": "Nasi Goreng Insight", "category": "makanan", "price": 32000, "image": "/images/menu/nasi-goreng.webp", "tags": ["best-seller"], "desc": "Udang, telur, kerupuk"},
+  {"id": "ayam-crispy", "name": "Ayam Goreng Crispy", "category": "makanan", "price": 35000, "image": "/images/menu/ayam-crispy.webp", "desc": "Dengan nasi dan sambal bawang"},
+  {"id": "penne", "name": "Penne Bolognese", "category": "makanan", "price": 34000, "image": "/images/menu/penne.webp", "desc": "Saus daging sapi, keju"},
+  {"id": "mie-goreng", "name": "Mie Goreng Jawa", "category": "makanan", "price": 30000, "image": "/images/menu/mie-goreng.webp", "tags": ["baru"], "desc": "Ayam, sayur, telur"},
+  {"id": "mie-kuah", "name": "Mie Kuah Seafood", "category": "makanan", "price": 36000, "image": "/images/menu/mie-kuah.webp", "desc": "Udang, telur rebus, kuah gurih"},
+  {"id": "kentang", "name": "French Fries", "category": "snack", "price": 20000, "image": "/images/menu/kentang.webp", "tags": ["best-seller"], "desc": "Taburan keju dan parsley"},
+  {"id": "dimsum", "name": "Dimsum Mix", "category": "snack", "price": 25000, "image": "/images/menu/dimsum.webp", "desc": "Isi 6, saus chili"},
+  {"id": "samosa", "name": "Samosa Ayam", "category": "snack", "price": 22000, "image": "/images/menu/samosa.webp", "desc": "Isi 4, renyah"},
+  {"id": "cookies", "name": "Choco Chip Cookies", "category": "snack", "price": 18000, "image": "/images/menu/cookies.webp", "desc": "Isi 3, dipanggang tiap hari"}
+]

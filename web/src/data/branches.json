@@ -1,0 +1,122 @@
+[
+  {
+    "id": "soreang",
+    "name": "Kopi Insight Soreang",
+    "area": "Soreang",
+    "city": "Kab. Bandung",
+    "address": "Dekat Jl. Raya Soreang – Banjaran 10-319, Soreang, Kec. Soreang, Kabupaten Bandung, Jawa Barat 40911",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kopi+Insight+Soreang",
+    "mapsEmbed": "https://www.google.com/maps?q=Jl.+Raya+Soreang+-+Banjaran,+Soreang,+Kabupaten+Bandung&output=embed",
+    "whatsapp": "6281200000000",
+    "grabfood": "https://food.grab.com/id/id/",
+    "instagram": "https://www.instagram.com/kopiinsight/",
+    "parking": "Parkir motor & mobil tersedia di depan kafe [ISI]",
+    "features": [
+      "DJ akhir pekan",
+      "Indoor & outdoor",
+      "Wi-Fi"
+    ]
+  },
+  {
+    "id": "banjaran",
+    "name": "Kopi Insight Banjaran",
+    "area": "Banjaran",
+    "city": "Kab. Bandung",
+    "address": "[ISI alamat lengkap cabang Banjaran]",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Banjaran+Kabupaten+Bandung",
+    "mapsEmbed": "https://www.google.com/maps?q=Banjaran,+Kabupaten+Bandung&output=embed",
+    "whatsapp": "6281200000000",
+    "grabfood": "https://food.grab.com/id/id/",
+    "parking": "[ISI info parkir]",
+    "features": [
+      "Indoor & outdoor",
+      "Wi-Fi"
+    ],
+    "hours": [
+      {
+        "day": "Minggu",
+        "open": "09:00",
+        "close": "23:00"
+      },
+      {
+        "day": "Senin",
+        "open": "09:00",
+        "close": "22:00"
+      },
+      {
+        "day": "Selasa",
+        "open": "09:00",
+        "close": "22:00"
+      },
+      {
+        "day": "Rabu",
+        "open": "09:00",
+        "close": "22:00"
+      },
+      {
+        "day": "Kamis",
+        "open": "09:00",
+        "close": "22:00"
+      },
+      {
+        "day": "Jumat",
+        "open": "09:00",
+        "close": "23:00"
+      },
+      {
+        "day": "Sabtu",
+        "open": "09:00",
+        "close": "23:00"
+      }
+    ],
+    "heroTitle": [
+      "Ngopi santai, ",
+      "ngobrol lama",
+      " di Banjaran."
+    ],
+    "heroLead": "Tempat ngopi yang adem buat ngobrol, kerja, atau kumpul keluarga. Area indoor dan outdoor, Wi-Fi kencang."
+  },
+  {
+    "id": "bandung",
+    "name": "Delapan Belas Coffee Bandung",
+    "area": "Bandung",
+    "city": "Kota Bandung",
+    "address": "[ISI alamat lengkap cabang Bandung]",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kota+Bandung",
+    "mapsEmbed": "https://www.google.com/maps?q=Kota+Bandung&output=embed",
+    "whatsapp": "6281200000000",
+    "parking": "[ISI info parkir]",
+    "features": [
+      "Wi-Fi",
+      "Ruang meeting"
+    ],
+    "heroTitle": [
+      "Kopi enak, ",
+      "kerja tenang",
+      " di Bandung."
+    ],
+    "heroLead": "Biji kopi pilihan, Wi-Fi kencang, dan ruang meeting yang bisa dipesan. Pas buat kerja atau janjian."
+  },
+  {
+    "id": "cimahi",
+    "name": "Delapan Belas Coffee Cimahi",
+    "area": "Cimahi",
+    "city": "Kota Cimahi",
+    "address": "[ISI alamat lengkap cabang Cimahi]",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kota+Cimahi",
+    "mapsEmbed": "https://www.google.com/maps?q=Kota+Cimahi&output=embed",
+    "whatsapp": "6281200000000",
+    "grabfood": "https://food.grab.com/id/id/",
+    "parking": "[ISI info parkir]",
+    "features": [
+      "Live music",
+      "Wi-Fi"
+    ],
+    "heroTitle": [
+      "Ngopi, nongkrong, ",
+      "live music",
+      " di Cimahi."
+    ],
+    "heroLead": "Musik live tiap akhir pekan, menu lengkap, dan suasana yang bikin betah sampai malam."
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "_catatan": "Identitas brand dipakai di semua cabang. Untuk kafe/brand lain cukup ganti file ini dan branches.json.",
+  "name": "Kopi Insight",
+  "by": "Delapan Belas Coffee",
+  "logoText": "#Kopi Insight",
+  "region": "Bandung Raya",
+  "whatsapp": "6281200000000",
+  "careersWhatsapp": "6281200000000",
+  "instagram": "https://www.instagram.com/kopiinsight/",
+  "threads": "https://www.threads.net/@kopiinsight",
+  "grabfood": "https://food.grab.com/id/id/",
+  "heroTitle": ["Ngopi, nongkrong, ", "dengar DJ", " di {lokasi}."],
+  "heroLead": "Kopi enak, makanan yang bikin betah, dan musik dari DJ tiap akhir pekan. Mampir sendiri atau bawa rombongan, mejanya kami siapkan.",
+  "heroImage": "/images/hero.webp",
+  "eventImage": "/images/event.webp",
+  "defaultHours": [
+    { "day": "Minggu", "open": "10:00", "close": "24:00" },
+    { "day": "Senin", "open": "10:00", "close": "23:00" },
+    { "day": "Selasa", "open": "10:00", "close": "23:00" },
+    { "day": "Rabu", "open": "10:00", "close": "23:00" },
+    { "day": "Kamis", "open": "10:00", "close": "23:00" },
+    { "day": "Jumat", "open": "10:00", "close": "24:00" },
+    { "day": "Sabtu", "open": "10:00", "close": "24:00" }
+  ]
+}

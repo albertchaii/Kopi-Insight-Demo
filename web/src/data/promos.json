@@ -1,0 +1,4 @@
+[
+  { "id": "happy-hour", "label": "Promo jam pagi", "title": "Diskon 25%", "subtitle": "Semua menu, pukul 10.00–14.00", "startsAt": "2026-01-01", "endsAt": "2026-12-31", "featured": true, "terms": "S&K berlaku. Tidak bisa digabung dengan promo lain. [ISI]" },
+  { "id": "bukber", "label": "Paket", "title": "Bukber & rombongan", "subtitle": "Mulai Rp45–55 ribu per orang", "startsAt": "2026-01-01", "endsAt": "2026-12-31" }
+]

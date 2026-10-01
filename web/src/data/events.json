@@ -1,0 +1,7 @@
+[
+  { "id": "dj-friday", "name": "DJ Night: Friday Groove", "date": "2026-10-09", "time": "20.00 – 23.30", "branches": ["soreang"] },
+  { "id": "live-acoustic-cimahi", "name": "Live Acoustic Session", "date": "2026-10-10", "time": "19.30 – 22.00", "branches": ["cimahi"] },
+  { "id": "live-acoustic", "name": "Live Acoustic Session", "date": "2026-10-11", "time": "19.30 – 22.00", "branches": ["soreang"] },
+  { "id": "dj-saturday", "name": "DJ Night: Saturday Sunset", "date": "2026-10-17", "time": "20.00 – 24.00", "branches": ["soreang"] },
+  { "id": "nobar", "name": "Nobar Bola Bareng", "date": "2026-10-24", "time": "19.00 – 22.00" }
+]

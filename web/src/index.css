@@ -1,0 +1,42 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    scroll-padding-top: 88px;
+  }
+  body {
+    @apply bg-bg font-sans text-ink antialiased;
+  }
+  :focus-visible {
+    outline: 2px solid #f2a33a;
+    outline-offset: 2px;
+  }
+  input[type="date"]::-webkit-calendar-picker-indicator,
+  input[type="time"]::-webkit-calendar-picker-indicator {
+    filter: invert(0.85);
+  }
+}
+
+@layer components {
+  .eyebrow {
+    @apply text-xs font-bold uppercase tracking-[1.5px] text-accent sm:text-[13px];
+  }
+  .h2 {
+    @apply font-display text-display-l-sm uppercase sm:text-display-l;
+  }
+  .no-scrollbar {
+    scrollbar-width: none;
+  }
+  .no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+}
